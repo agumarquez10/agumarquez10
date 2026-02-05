@@ -86,5 +86,5 @@ Actualmente **buscando mi primera oportunidad profesional** como Data Scientist,
 
 ## 📫 Contacto
 
-- **LinkedIn**: [Agustín Márquez](https://www.linkedin.com/in/agustin-marquez-/](https://www.linkedin.com/in/agustin-marquez-2b579bbb/)
+- **LinkedIn:** [Agustín Márquez](https://www.linkedin.com/in/agustin-marquez-2b579bbb/)
 - **Email**: [agu.marquez10@gmail.com](mailto:agu.marquez10@gmail.com)
