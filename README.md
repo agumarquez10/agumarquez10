@@ -49,23 +49,12 @@ Actualmente **buscando mi primera oportunidad profesional** como Data Scientist,
 
 ### 🔹 Predicción de Riesgo Crediticio
 - Modelo de clasificación con Random Forest, XGBoost y Logistic Regression
-- **AUC: [X.XX]** en validación
+- **AUC: [0.81]** en validación
 - Explicabilidad con SHAP values para interpretación de decisiones
 - Pipeline completo: limpieza de datos → feature engineering → entrenamiento → evaluación
 - Optimización de hiperparámetros mediante Grid Search y Cross-Validation
 - 📁 **Tech Stack**: Python, Pandas, Scikit-learn, XGBoost, SHAP, Matplotlib
 
-### 🔹 [Nombre del Proyecto 2]
-- Breve descripción del proyecto
-- Principales resultados o métricas
-- Tecnologías utilizadas
-
-### 🔹 [Nombre del Proyecto 3]
-- Breve descripción del proyecto
-- Principales resultados o métricas
-- Tecnologías utilizadas
-
-(Los proyectos están fijados abajo 👇)
 
 ---
 
