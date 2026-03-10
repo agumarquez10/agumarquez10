@@ -69,6 +69,13 @@ Actualmente **buscando mi primera oportunidad profesional** como Data Scientist,
 
 ## 🧩 Un poco más sobre mí
 
+🧩 Un poco más sobre mí
+
+Soy una persona curiosa y orientada a la resolución de problemas. Disfruto transformar datos en información útil y construir modelos que realmente aporten valor. Me motiva trabajar en entornos donde pueda aprender constantemente, trabajar en equipo y enfrentar desafíos.
+
+Vengo de un background diverso (marketing, operaciones y data), lo que me permite comunicar ideas complejas de forma clara y entender las necesidades desde diferentes puntos de vista. Me adapto rápido, aprendo con facilidad.
+
+Actualmente estoy enfocado en seguir creciendo en Machine Learning, MLOps y análisis de datos aplicado a entornos reales.
 
 
 ---
